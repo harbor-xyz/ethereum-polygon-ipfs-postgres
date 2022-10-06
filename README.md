@@ -1,6 +1,6 @@
-# Harbor Testnet with Two Chains and Two Off-Chain Actors
+# Harbor Testnet with Two Chains (Ethereum and Polygon) and Two Off-Chain Actors (IPFS and Postgres)
 
-This is to demosntrate configuring, building and running a sample Testnet with two chains and two actors. Clone this repo and follow along.
+This is to demosntrate configuring, building and running a sample Testnet with two chains (Ethereum and Polygon) and two public image actors (IPFS and Postgres). Clone this repo and follow along.
 
 ## Copy API Key
 
