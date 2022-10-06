@@ -84,8 +84,8 @@ ethereum
 polygon
 3.91.12.13:4001
 
-liquidationBot
-3.91.12.13:3000
+postgres
+3.91.12.13:5432
 
 ipfs
 3.91.12.13:5001
