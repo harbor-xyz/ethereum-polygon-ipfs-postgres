@@ -35,7 +35,7 @@ harbor apply
 You should see this:
 
 ```bash
-Checking ~/.harbor for your apiKey
+Checking ~/.harbor.key for your credentials
 Validating testnet name...
 Configuring chain...
 Configuring off-chain actor liquidation-bot-1
