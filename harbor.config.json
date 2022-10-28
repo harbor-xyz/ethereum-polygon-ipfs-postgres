@@ -10,7 +10,8 @@
           "afterDeploy": {
             "location": "./afterDeploy"
           }
-        }
+        },
+        "tag": "tag-1"
       }, 
       {
         "chain": "polygon",
@@ -22,7 +23,8 @@
           "afterDeploy": {
             "location": "./afterDeploy"
           }
-        }
+        },
+        "tag": "tag-1"
       }
     ],
     "offChainActors": [
@@ -37,12 +39,14 @@
           "POSTGRES_USER": "graph-node",
           "POSTGRES_PASSWORD": "let-me-in",
           "POSTGRES_DB": "graph-node"
-        }
+        },
+        "tag": "tag-1"
       },
       {
         "name": "ipfs",
         "image": "ipfs/go-ipfs:v0.4.23",
-        "ports": [5001]
+        "ports": [5001],
+        "tag": "tag-1"
       }
     ]
   }
