@@ -31,6 +31,7 @@ To run the Testnet, execute the following command in the same directory as this 
 ```bash
 harbor apply <testnet-name>
 ```
+Where `<testnet-name>` is a Testnet name of your choosing.
 
 You should see this:
 
